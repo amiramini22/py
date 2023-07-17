@@ -14,7 +14,7 @@ def send_email():
     message = request.get_json()
     
     sender_email = 'amirry002@gmail.com'
-    receiver_email = 'sohailbadghisi1@gmail.com'
+    receiver_email = 'dcarptneter00@gmail.com'
     subject = "New user registered"
     
     password = 'uxyikxxuikdjcjdn'
